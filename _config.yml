@@ -29,6 +29,7 @@ url: "https://hwuiiiii.github.io/"
 github_username:  hwuiiiii
 
 # Build settings
+remote_theme: samarsault/plainwhite-jekyll
 theme: plainwhite
 plugins:
   - jekyll-feed
